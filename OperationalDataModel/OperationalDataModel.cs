@@ -10,5 +10,7 @@ namespace OperationalDataModel
         public string Version { get; set; }
 
         public string Title { get; set; }
+
+        public string Code { get; set; }
     }
 }
