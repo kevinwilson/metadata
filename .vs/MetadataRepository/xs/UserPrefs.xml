@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{26D87CB2-8CE5-4084-B13A-635694A5E81C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MetadataRepository/Pages/Index.razor">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="MetadataRepository/Pages/Index.razor" Line="2" Column="1" />
       <File FileName="MetadataRepository/Shared/NavMenu.razor" Line="2" Column="46" />
       <File FileName="MetadataRepository/Shared/OdmSummary.razor" Line="8" Column="28" />
       <File FileName="MetadataRepository/Shared/MainLayout.razor" Line="1" Column="1" />
+      <File FileName="OperationalDataModel/OperationalDataModel.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,12 +13,12 @@
           <Node name="MetadataRepository" expanded="True">
             <Node name="MetadataRepository" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Index.razor" selected="True" />
-              </Node>
+              <Node name="Pages" expanded="True" />
               <Node name="Shared" expanded="True" />
             </Node>
-            <Node name="OperationalDataModel" expanded="True" />
+            <Node name="OperationalDataModel" expanded="True">
+              <Node name="OperationalDataModel.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

@@ -8,5 +8,7 @@ namespace OperationalDataModel
         }
 
         public string Version { get; set; }
+
+        public string Title { get; set; }
     }
 }
