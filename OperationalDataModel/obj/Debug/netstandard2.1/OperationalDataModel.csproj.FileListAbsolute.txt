@@ -1,0 +1,9 @@
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/bin/Debug/netstandard2.1/OperationalDataModel.deps.json
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/bin/Debug/netstandard2.1/OperationalDataModel.dll
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/bin/Debug/netstandard2.1/OperationalDataModel.pdb
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/obj/Debug/netstandard2.1/OperationalDataModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/obj/Debug/netstandard2.1/OperationalDataModel.AssemblyInfoInputs.cache
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/obj/Debug/netstandard2.1/OperationalDataModel.AssemblyInfo.cs
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/obj/Debug/netstandard2.1/OperationalDataModel.csproj.CoreCompileInputs.cache
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/obj/Debug/netstandard2.1/OperationalDataModel.dll
+/Users/kevinwilson/Projects/MetadataRepository/OperationalDataModel/obj/Debug/netstandard2.1/OperationalDataModel.pdb
